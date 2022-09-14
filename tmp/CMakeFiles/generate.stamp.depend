@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+C:/Cmake/share/cmake-3.24/Modules/CMakeCInformation.cmake
+C:/Cmake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake
+C:/Cmake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+C:/Cmake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake
+C:/Cmake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake
+C:/Cmake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+C:/Cmake/share/cmake-3.24/Modules/CMakeRCInformation.cmake
+C:/Cmake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake
+C:/Cmake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Cmake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Cmake/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake
+C:/Cmake/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake
+C:/Cmake/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+C:/Cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake
+C:/Cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Cmake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+C:/Cmake/share/cmake-3.24/Modules/Platform/Windows.cmake
+C:/Cmake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake
+C:/G1/2022-polytech-bessonov/CMakeLists.txt
+C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/3.24.1/CMakeCCompiler.cmake
+C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/3.24.1/CMakeCXXCompiler.cmake
+C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/3.24.1/CMakeRCCompiler.cmake
+C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/3.24.1/CMakeSystem.cmake

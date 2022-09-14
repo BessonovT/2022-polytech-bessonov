@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\G1\2022-polytech-bessonov\tmp\CMakeFiles\835cc61d79603654ebc4b9a7c774f86d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{51C84256-8D3E-3D6E-B5B8-59E76B8C52B3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
