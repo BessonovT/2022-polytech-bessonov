@@ -9,7 +9,7 @@ The output was:
 Microsoft (R) Build Engine версии 17.2.1+52cd2da31 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
-Сборка начата 14.09.2022 19:35:31.
+Сборка начата 15.09.2022 21:21:10.
 Проект "C:\G1\2022-polytech-bessonov\tmp\CMakeFiles\3.24.1\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
 PrepareForBuild:
   Создание каталога "Debug\".
@@ -35,7 +35,7 @@ FinalizeBuildStatus:
     Предупреждений: 0
     Ошибок: 0
 
-Прошло времени 00:00:00.88
+Прошло времени 00:00:00.67
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -54,7 +54,7 @@ The output was:
 Microsoft (R) Build Engine версии 17.2.1+52cd2da31 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
-Сборка начата 14.09.2022 19:35:32.
+Сборка начата 15.09.2022 21:21:10.
 Проект "C:\G1\2022-polytech-bessonov\tmp\CMakeFiles\3.24.1\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
 PrepareForBuild:
   Создание каталога "Debug\".
@@ -80,7 +80,7 @@ FinalizeBuildStatus:
     Предупреждений: 0
     Ошибок: 0
 
-Прошло времени 00:00:00.60
+Прошло времени 00:00:00.55
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -92,28 +92,28 @@ The CXX compiler identification is MSVC, found in "C:/G1/2022-polytech-bessonov/
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_10eff.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.2.1+52cd2da31 для .NET Framework
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_d9248.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.2.1+52cd2da31 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.32.31328 для x64
   CMakeCCompilerABI.c
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_10eff.dir\Debug\\" /Fd"cmTC_10eff.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Cmake\share\cmake-3.24\Modules\CMakeCCompilerABI.c"
-  cmTC_10eff.vcxproj -> C:\G1\2022-polytech-bessonov\tmp\CMakeFiles\CMakeTmp\Debug\cmTC_10eff.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d9248.dir\Debug\\" /Fd"cmTC_d9248.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Cmake\share\cmake-3.24\Modules\CMakeCCompilerABI.c"
+  cmTC_d9248.vcxproj -> C:\G1\2022-polytech-bessonov\tmp\CMakeFiles\CMakeTmp\Debug\cmTC_d9248.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_6ddb0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.2.1+52cd2da31 для .NET Framework
+Run Build Command(s):C:/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8f22f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && Microsoft (R) Build Engine версии 17.2.1+52cd2da31 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.32.31328 для x64
   CMakeCXXCompilerABI.cpp
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6ddb0.dir\Debug\\" /Fd"cmTC_6ddb0.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\Cmake\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp"
-  cmTC_6ddb0.vcxproj -> C:\G1\2022-polytech-bessonov\tmp\CMakeFiles\CMakeTmp\Debug\cmTC_6ddb0.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8f22f.dir\Debug\\" /Fd"cmTC_8f22f.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\Cmake\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_8f22f.vcxproj -> C:\G1\2022-polytech-bessonov\tmp\CMakeFiles\CMakeTmp\Debug\cmTC_8f22f.exe
 
 
 
