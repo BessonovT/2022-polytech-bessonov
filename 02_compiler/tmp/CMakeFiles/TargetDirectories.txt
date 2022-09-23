@@ -1,3 +1,0 @@
-C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/Hello.dir
-C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/ALL_BUILD.dir
-C:/G1/2022-polytech-bessonov/tmp/CMakeFiles/ZERO_CHECK.dir
