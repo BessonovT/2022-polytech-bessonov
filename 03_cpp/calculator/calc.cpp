@@ -29,12 +29,26 @@ int main()
         }
 		if  (o == '^')
         {
-			c = a;
-			k = 1;
-            while (k < b)
-			{
-			a = c * a;
-			k += 1;
+			if (b > 0) {
+				c = a;
+				k = 1;
+				while (k < b)
+				{
+					a = c * a;
+					k += 1;
+				}
+			}
+			if (b < 0) {
+				c = a;
+				k = -1;
+				while (k > b)
+				{
+					a = a / c;
+					k = k - 1;
+				}
+			}
+			if (b == 0) {
+				cout << 1;
 			}
 		cout << a << endl;
         }
