@@ -1,0 +1,10 @@
+^C:\G1\2022-POLYTECH-BESSONOV\03_CPP\INTRO\CMAKE\CMAKEFILES\DC6EE18ED78E1232BD9479219888BC11\GENERATE.STAMP.RULE
+setlocal
+C:\Cmake\bin\cmake.exe -SC:/G1/2022-polytech-bessonov/03_cpp/intro -BC:/G1/2022-polytech-bessonov/03_cpp/intro/CMake --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/G1/2022-polytech-bessonov/03_cpp/intro/CMake/Hello2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

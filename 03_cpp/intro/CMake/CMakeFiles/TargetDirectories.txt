@@ -1,0 +1,3 @@
+C:/G1/2022-polytech-bessonov/03_cpp/intro/CMake/CMakeFiles/Hello2.dir
+C:/G1/2022-polytech-bessonov/03_cpp/intro/CMake/CMakeFiles/ALL_BUILD.dir
+C:/G1/2022-polytech-bessonov/03_cpp/intro/CMake/CMakeFiles/ZERO_CHECK.dir

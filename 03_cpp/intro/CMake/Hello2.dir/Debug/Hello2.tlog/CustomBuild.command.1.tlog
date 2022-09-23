@@ -1,0 +1,10 @@
+^C:\G1\2022-POLYTECH-BESSONOV\03_CPP\INTRO\CMAKELISTS.TXT
+setlocal
+C:\Cmake\bin\cmake.exe -SC:/G1/2022-polytech-bessonov/03_cpp/intro -BC:/G1/2022-polytech-bessonov/03_cpp/intro/CMake --check-stamp-file C:/G1/2022-polytech-bessonov/03_cpp/intro/CMake/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
