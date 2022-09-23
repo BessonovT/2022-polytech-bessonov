@@ -1,12 +1,13 @@
 #include <iostream>
-
+#include <string.h>
 using namespace std;
 
 int main()
 {
-	const char name;
-	cout << "What's your name?";
-	cin >> name;
-	cout << "Hello, " << name << "!";
+	string n = "";
+	cout << "What's your name?" << endl;
+	cin >> n;
+	cout << "Hello, " << n << "!" << endl;
+	system("PAUSE");
 	return 0;
 }
