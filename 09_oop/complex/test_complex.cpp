@@ -1,7 +1,7 @@
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
-#include <doctest.h>
+#include <doctest>
 #include <cmath>
-#include "custom_complex.h"
+#include "complex.h"
 
 const Complex Complex::operator + (const Complex a) const {
   return Complex(r + a.r, i + a.i);

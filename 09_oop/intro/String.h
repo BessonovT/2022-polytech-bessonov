@@ -1,21 +1,15 @@
-#include <cstring>
 #include <iostream>
+#include <cstring>
 
-using namespace std;
-
-class String
+class String 
 {
-    unsigned int length;
-    char* data;
-
+	unsigned int length = 0;
+	char *data;
 public:
-    String();
-    String(const char* init);
-    unsigned int get_length();
-    const char* cout();
-    ~String();
-    char operator[](unsigned int pos)
-    {
-        return data[pos];
-    }
+	String(const char *s);
+	unsigned int get_length();
+	const char *c_str();
+	String operator+(String rv);
+	friend std::ostream &operator<<(std::ostream &out, String &S);
+	~String();
 };
