@@ -1,5 +1,5 @@
 cmake_minimum_required()
 
-project(String)
+project(intro)
 
-add_executable(string String.cpp main.cpp)
+add_executable(a lect.cpp)
